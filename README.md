@@ -1,0 +1,2 @@
+# SolarPanel
+First exercise
