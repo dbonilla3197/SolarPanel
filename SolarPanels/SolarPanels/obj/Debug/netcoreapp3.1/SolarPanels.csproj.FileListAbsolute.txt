@@ -1,0 +1,11 @@
+C:\Users\dbonilla\Documents\Training\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.1\SolarPanels.exe
+C:\Users\dbonilla\Documents\Training\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.1\SolarPanels.deps.json
+C:\Users\dbonilla\Documents\Training\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.1\SolarPanels.runtimeconfig.json
+C:\Users\dbonilla\Documents\Training\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.1\SolarPanels.runtimeconfig.dev.json
+C:\Users\dbonilla\Documents\Training\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.1\SolarPanels.dll
+C:\Users\dbonilla\Documents\Training\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.1\SolarPanels.pdb
+C:\Users\dbonilla\Documents\Training\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.1\SolarPanels.csprojAssemblyReference.cache
+C:\Users\dbonilla\Documents\Training\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.1\SolarPanels.AssemblyInfoInputs.cache
+C:\Users\dbonilla\Documents\Training\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.1\SolarPanels.AssemblyInfo.cs
+C:\Users\dbonilla\Documents\Training\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.1\SolarPanels.dll
+C:\Users\dbonilla\Documents\Training\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.1\SolarPanels.pdb
